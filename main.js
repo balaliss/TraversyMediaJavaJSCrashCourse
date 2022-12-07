@@ -267,6 +267,7 @@ const num = new Number(5);
 console.log(typeof num); // Shows 'Object'
 
 
+
 // ES6 CLASSES
 class Person {
   constructor(firstName, lastName, dob) {
